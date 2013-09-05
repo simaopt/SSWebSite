@@ -3,6 +3,7 @@ markdown: redcarpet
 safe: true
 lsi: false
 pygments: true
+auto: true
 server: true
 exclude:
 - README.md
