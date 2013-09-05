@@ -1,0 +1,10 @@
+name: Simão Seiça Web Site
+markdown: redcarpet
+safe: true
+lsi: false
+pygments: true
+auto: true
+server: true
+exclude:
+- README.md
+- Rakefile

@@ -1,0 +1,29 @@
+---
+layout: default
+article-class: post
+---
+
+<date datetime="{{ page.date | date: "%Y-%m-%d" }}" pubdate>
+  <span class="month">{{ page.date | date: "%b" }}</span>
+  <span class="day">{{ page.date | date: "%d" }}</span>
+  <span class="year">{{ page.date | date: "%Y" }}</span>
+</date>
+<h2>{{ page.title }}</h2>
+
+<div class="post">
+{{ content }}
+</div>
+</br>
+
+<h3>Client: {{ page.client }}</h3>
+{% if page.main_url %}
+<a href="{{ page.main_url }}">{{ page.title }}</a></br>
+{% endif %}
+
+{% if page.appstore %}
+<a href="{{ page.appstore }}">Apple Store</a></br>
+{% endif %}
+        
+{% if page.playstore %}
+<a href="{{ page.playstore }}">Google Play</a></br>
+{% endif %}
