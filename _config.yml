@@ -1,5 +1,6 @@
 name: Simão Seiça Web Site
 markdown: redcarpet
+<<<<<<< HEAD
 safe: true
 lsi: false
 pygments: true
@@ -8,3 +9,16 @@ server: true
 exclude:
 - README.md
 - Rakefile
+=======
+lsi: false
+pygments: true
+permalink: pretty
+url: http://simaoseica.pt
+exclude:
+- README.md
+- Rakefile
+
+#Dev
+auto: true
+#server: true
+>>>>>>> 688cd629464d09b4b5798c1b7135f74c0d272a01
