@@ -4,6 +4,7 @@ title:  "Coca Cola Histórias Felizes para Comer"
 published: false
 date:   2011-11-10
 categories: Android app
+client: Coca-Cola Portugal
 ---
 
 
@@ -13,8 +14,3 @@ In the section “Chef José Avillez” you have the secrets, tips, recipes and 
 
 “Coca Cola - Histórias Felizes para Comer” application includes a useful shopping list which can be created directly from the ingredients of specific recipes and completed by yourself by adding extra ingredients and products you need. And so that you don’t forget of any food in the hoven, “Coca Cola - Histórias Felizes para Comer” has the perfect timer to manage your cooking times.
 
-
-Client:Coca-Cola
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com

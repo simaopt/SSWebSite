@@ -9,6 +9,8 @@ categories: Android app
 client: Siemens S.A.
 ---
 
+![](/assets/apps/iOS/SiemensPT/1.png)
+
 Agora, todas as publicações da Siemens Portugal vão estar disponíveis no seu iPad numa única aplicação: uma biblioteca, onde pode arquivar e consultar os Relatórios & Contas e a revista Diálogo.
 
 No imediato disponibilizamos, o Relatório & Contas onde poderá consultar a estratégia da empresa e principais projectos, e nos Dados Financeiros poderá verificar a performance da Siemens no ano fiscal de 2011 em Portugal.

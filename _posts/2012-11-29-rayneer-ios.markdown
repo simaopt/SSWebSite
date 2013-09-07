@@ -10,5 +10,7 @@ tags: iOS app
 client: rayneer entertailorment AG
 ---
 
+![](/assets/apps/iOS/Rayneer/1.jpeg)
+
 Rayneer is your personalized music television: Sign in with Facebook, we recognize your music preferences and compute your personal music TV concerning to your taste.
 

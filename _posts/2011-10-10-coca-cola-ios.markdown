@@ -11,6 +11,7 @@ tags: iOS app
 client: 
 ---
 
+![](/assets/apps/iOS/Cocacola/1.jpg)
 
 For a happy meal, besides the food, the most important are the company and the stories we share during the meal. With the “Coca Cola - Histórias Felizes para Comer” application, you’ll find the happiest stories and the best recipes, cooking secrets and special tricks to turn your meals into happy meals.
 

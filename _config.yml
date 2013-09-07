@@ -7,7 +7,6 @@ exclude:
 - Rakefile
 pygments: true
 permalink: pretty
-url: http://simaoseica.pt
 
 #Dev
 auto: true

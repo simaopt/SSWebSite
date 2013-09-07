@@ -11,6 +11,7 @@ tags: iOS app
 client: Moche
 ---
 
+![](/assets/apps/iOS/SurfMOCHE/20.PNG)
+
 O Moche engendrou uma aplicação mobile moderadamente evoluída para que ninguém deixe de seguir a Liga Moche e a Moche Series no telemóvel. Esta mesmo. E tem muita coisa que ver, desde a transmissão de provas de surf em direto até à consulta de resultados das etapas da liga e do WT que acontecem em Portugal. 
 
-![]({{ site.url }}/assets/apps/iOS/SurfMOCHE/2.jpg)

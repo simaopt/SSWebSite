@@ -10,15 +10,41 @@ tags: iOS app
 client: Coca-Cola Portugal
 ---
 
-Zona Desportistas is a brand new mobile application created for Powerade. 
-The app challenges Portuguese athletes to register, share, compare and excel daily their performances in different type of sports. With a simple and intuitive design, athletes now have the chance to measure their effort, establish goals, beat heir own records, pick their favorite rotes nearby, challenge friends and share their achievements on their social profiles.
-
-A multi sports tracking app that tracks running, football, fitness, BTT, cycling, triathlon, tennis, golf, rugby, handball, basketball and many others. It records and uses the routes created by the athletes through GPS, suggests routes or venues according to the chosen sport, tracks activities through duration of the effort, distance ran, speed achieved and calories burnt.
-by Diogo
-
-
 <iframe src="http://player.vimeo.com/video/51768670?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-AWARDS
-Sapo Online Awards 2012
+</br>
+</br>
+
+Utiliza a aplicação Zona desportistas como o teu personal trainer, acompanha o teu progresso, mantém-te motivado e desafia todos os teus amigos. </br>
+Zona desportistas é um Sports Tracker que avalia e partilha as tuas diversas atividades físicas.
+Que desportos contempla: </br>
+Corrida, Andar, BTT/Ciclismo (distance based);</br>
+Fitness Futebol, Basquet, Voleibol, Esqui, Andebol, Golf, Râguebi, Ténis e Voleibol (non distance based)</br> 
+
+O que regista:</br>
+1. Duração do exercício</br>
+2. Percurso percorrido (em atividades distance based)</br>
+3. Distância percorrida (em atividades distance based)</br>
+4. Velocidade (em atividades distance based)</br>
+5. Altitude (em atividades distance based)</br>
+
+O que calcula:</br>
+1. Calorias consumidas</br>
+2. Velocidade média e máxima</br>
+3. Ritmo (número de minutos percorridos por cada Km)</br>
+4. Variações de altitude </br>
+5. Intake de Powerade </br>
+
+Que funcionalidades tem:</br>
+1. Integração com o portal ZD para análise e avaliação dos vários exercícios</br>
+2. Possível partilha das atividades via Facebook, Twitter e e-mail</br>
+3. Registo de todas as atividades e resumo cumulativo das atividades por tempo (por semana, mês e ano)</br>
+4. Aceita Desafios (objetivos desafiados pelo próprio e terceiros) e indexa as atividades aos respetivos desafios.</br>
+5. Biblioteca de Locais e Percursos onde se pode praticar os diversos exercícios, incluindo a localização dos próprios através de geo referência.</br>
+
+A utilização do GPS por longos períodos acelera o consumo da bateria
+
+
+**AWARDS**</br>
+Sapo Online Awards 2012</br>
 Gold ∙ Category: Best relational marketing program

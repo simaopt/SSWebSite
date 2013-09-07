@@ -11,7 +11,7 @@ client: Unitel SA
 excerpt: ""
 ---
 
-Com a aplicação Unitel Música não vai parar de dançar! Esta aplicação dá-lhe toda a informação sobre os artistas angolanos do momento, disponibilizando também os seus videoclips, para ouvir quando e onde quiser!
+![](/assets/apps/iOS/Unitel Musica/6.jpg)
 
-
-![]({{ site.url }}/assets/apps/iOS/Unitel Musica/2.jpg)
+Com a aplicação Unitel Música não vai parar de dançar! 
+Esta aplicação dá-lhe toda a informação sobre os artistas angolanos do momento, disponibilizando também os seus videoclips, para ouvir quando e onde quiser!

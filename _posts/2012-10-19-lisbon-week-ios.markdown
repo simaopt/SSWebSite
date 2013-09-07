@@ -10,6 +10,8 @@ tags: iOS app
 client: Lisbon Week
 ---
 
+![](/assets/apps/iOS/LisbonWeek/1.jpg)
+
 From the 22nd to the 28th of October the city of Lisbon will be the stage of the first edition of Lisbon Week, a cultural and touristic project created by XN Brand Dynamics and co-produced with the City Hall.
 
 Having the 7 hills of Lisbon as a starting point, during 7 days it will be possible to discover 7 routes, each dedicated to a theme: Art, History, Panoramic, Gastronomy, Music, Fashion and Tradition, each route designed by an ambassador. Names like José Avillez, José Cabral, José Pedro from the renowned Portuguese rock band “Xutos e Pontapés”, Isabel Sarmento, João Botelho, Carlos Coelho and José Sarmento de Matos will share their interpretations of Lisbon.
